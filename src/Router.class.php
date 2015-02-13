@@ -4,6 +4,8 @@
 /* by Ben Crowder <ben.crowder@gmail.com> */
 /* http://bencrowder.net/coding/router    */
 
+namespace Router;
+
 class Router {
 	public static function route($url, $routes, $defaultHandler) {
 		$found = false;
