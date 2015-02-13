@@ -1,0 +1,11 @@
+{
+    "name": "jaredhowland/router",
+    "type": "library",
+    "description": "A small PHP library for doing URL routing. Fork of https://github.com/bencrowder/router.",
+    "keywords": ["router","routing","php"],
+    "homepage": "http://github.com/jaredhowland/router",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
